@@ -1,12 +1,10 @@
+![alt text](<Screenshot (298).png>)
 
-
-
-
-# NudarMedia JS Quiz App📄
+# NudarMedia™ JS Quiz App📄
 
 ## Table of Contents
 
-- [NudarMedia JS Quiz App📄](#nudarmedia-js-quiz-app)
+- [NudarMedia™ JS Quiz App📄](#nudarmedia-js-quiz-app)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [NudarMedia™ JS Quiz App Features](#nudarmedia-js-quiz-app-features)
